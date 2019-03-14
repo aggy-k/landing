@@ -1,0 +1,43 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch:400|Lato:400,700');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url('components/banner.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+@import url('components/container.css');
+@import url('components/button.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-inline {
+  display: inline-block;
+}
+
+.list-inline li {
+  margin: 10px;
+  font-size: 16px;
+}
+
+/* Custom design below! */
+
+/*git remote add upstream https://github.com/lewagon/fullstack-challenges.git*/
+/*font-family: 'Cabin Sketch', cursive;*/
+/*font-family: 'Lato', sans-serif;*/
